@@ -1,0 +1,5 @@
+!doctype perdoret me tregu qe jemi tu punu me html5 pasi ka disa sene te reja.
+
+<img src="ubt.png" alt="Logoja e Ubt">nese nuk del fotoja e ubt athere e kemi alternativen vetem fjala Logoja e UBT
+tek radio butioni perdoret 
+<name="xxx"> per shkak se me tregu a jane 2 butona tu fol per qeshtjen e njejte dhe se dyt butonat mos me i prek./
